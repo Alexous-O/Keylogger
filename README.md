@@ -1,6 +1,6 @@
 # Keylogger
 
-# :warning: DISCLAIMER :warning: : I am not responsible for any illegal acts you may commit with this code.
+# :warning: DISCLAIMER :warning: I am not responsible for any illegal acts you may commit with this code.
 
 ## Project Description 
 
